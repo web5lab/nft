@@ -1,2 +1,0 @@
-(this.webpackJsonpgigaland=this.webpackJsonpgigaland||[]).push([[12],{1869:function(n,i){},1870:function(n,i){},1939:function(n,i){},1942:function(n,i){},1945:function(n,i){},2120:function(n,i){}}]);
-//# sourceMappingURL=12.acb939a1.chunk.js.map
